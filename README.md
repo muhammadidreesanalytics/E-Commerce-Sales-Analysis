@@ -1,2 +1,7 @@
-# E-Commerce-Sales-Analysis
-E-commerce sales analysis using SQL, Python, Pandas and Power BI.
+# Power BI DAX Measures
+
+## Total Sales
+
+```DAX
+Total Sales =
+SUM(EcommerceData[Sales])
